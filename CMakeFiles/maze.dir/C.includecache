@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aclake/luc/comp310/homework-1-maze-shortest-paths-alake16/maze.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+limits.h
+-
+unistd.h
+-
+

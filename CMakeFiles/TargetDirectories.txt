@@ -1,0 +1,3 @@
+/Users/aclake/luc/comp310/homework-1-maze-shortest-paths-alake16/CMakeFiles/rebuild_cache.dir
+/Users/aclake/luc/comp310/homework-1-maze-shortest-paths-alake16/CMakeFiles/edit_cache.dir
+/Users/aclake/luc/comp310/homework-1-maze-shortest-paths-alake16/CMakeFiles/maze.dir
